@@ -1,7 +1,9 @@
 <!--타이틀 부분-->
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcom+to+Minseok's+Github;&font=Fira+Code&color=ffffff)](https://git.io/typing-svg)
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcom+to+Minseok's+Github;&font=Fira+Code&color=ffffff" />
+  </a>
+</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
