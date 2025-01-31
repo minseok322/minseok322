@@ -1,7 +1,7 @@
 <!--타이틀 부분-->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcom+to+Minseok's+Github;&font=Fira+Code&color=ffffff" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcom+to+Minseok's+Github;&font=Fira+Code&color=333333" />
   </a>
 </div>
 
