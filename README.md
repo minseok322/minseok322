@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/ERD-000000.svg?style=flat&logo=diagrams.net&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/ERD-FF5722.svg?style=for-the-badge&logo=draw.io&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
