@@ -23,10 +23,9 @@
   <img src="https://img.shields.io/badge/ERD-FF5722.svg?style=for-the-badge&logo=draw.io&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Redis-D82C20.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp
 </div>
-
-
