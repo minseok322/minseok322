@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Minseok's+Github;&font=Fira+Code&color=28a745" />
   </a>
 </div>
-
+<!--내용 부분-->
 <h3 align="center"> Tech Stack </h3>
 <table align="center" border="1" cellpadding="10">
   <!-- Frontend -->
@@ -63,5 +63,6 @@
     <td colspan="2"></td> <!-- Empty space for balance -->
   </tr>
 </table>
+
 
 
