@@ -6,7 +6,7 @@
 </div>
 
 <!--내용 부분-->
-<h3 align="center"> Tech Stack </h3>
+<h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -22,8 +22,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  <img src="[https://img.shields.io/badge/ERD-FF5722.svg?style=for-the-badge&logo=draw.io&logoColor=white](https://img.shields.io/badge/ERD-000000?style=flat&logo=diagrams.net&logoColor=white)" />&nbsp
+  <img src="https://img.shields.io/badge/ERD-000000.svg?style=flat&logo=diagrams.net&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp
 </div>
+
 
